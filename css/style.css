@@ -1,0 +1,22 @@
+:root{
+	--red: #ff0011;
+	--yellow: #d6f700;
+	--green: #008c31;
+	--maroon: #b01500;
+}
+
+.r{
+	background-color: var(--red);
+}
+
+.y{
+	background-color: var(--yellow);
+}
+
+.g{
+	background-color: var(--green);
+}
+
+.m{
+	background-color: var(--maroon);
+}
